@@ -29,7 +29,7 @@ I've used the follow technologies:<br/>
 ## Photos <a name="#id03"></a>
 
 
-<p>Banner: </p><img height="300" width="500" src="">
+<p>Banner: </p><img height="300" width="500" src="img/photoBanner.jpg">
 
 
 <p>Recepies: </p><img height="300" width="500" src="">

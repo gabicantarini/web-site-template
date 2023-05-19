@@ -130,8 +130,8 @@ button.slick-next {
     margin: 0 auto;
     width: 50%;
     position: absolute;
-    left: 50%;
-    top: 600px;
+    left: 45%;
+    top: 450px;
 }
 
 li.slick-active button {
