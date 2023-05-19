@@ -22,6 +22,7 @@ The pages for this application are:
 
 I've used the follow technologies:<br/>
 
+
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
@@ -32,10 +33,10 @@ I've used the follow technologies:<br/>
 <p>Banner: </p><img height="300" width="500" src="img/photoBanner.jpg">
 
 
-<p>Recepies: </p><img height="300" width="500" src="">
+<p>Icons: </p><img height="300" width="500" src="img/icons.jpg">
 
 
-<p>Modal: </p><img height="300" width="500" src="">
+<p>Footer: </p><img height="300" width="500" src="img/footer.jpg">
 
 # Requirements <a name="id04"></a>
 <p>Compiling info: </p>

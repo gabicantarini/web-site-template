@@ -13,7 +13,7 @@ body {
     }
 main, .content {
 margin: 0 auto;
-width: 980px;
+width: 100%;
 position: relative;
 }
 .logo {
@@ -27,10 +27,7 @@ display: inline-block;
 float: left;
 list-style: none;
 }
-.redes-sociais {
-width: 25%;
-float: right;
-}
+
 .header-2 {
 background-color: #ffffff;
 width: 980px;
@@ -272,7 +269,7 @@ h3 {
     width:  17px;
     height: 24px;
     display: inline-block;
-    float: left;
+    /*float: left;*/
     background-repeat: no-repeat;
     padding-left: 5px;
 }
