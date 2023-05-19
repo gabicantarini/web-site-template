@@ -14,3 +14,40 @@ This is a web site template web application web to publish gourmet recepies.
 The pages for this application are:
 
 - homepage.
+
+
+<h3>Visit webpage: </h3><a href="">Web Site</a>
+
+## Technologies <a name="#id02"></a>
+
+I've used the follow technologies:<br/>
+
+<code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+
+## Photos <a name="#id03"></a>
+
+
+<p>Banner: </p><img height="300" width="500" src="">
+
+
+<p>Recepies: </p><img height="300" width="500" src="">
+
+
+<p>Modal: </p><img height="300" width="500" src="">
+
+# Requirements <a name="id04"></a>
+<p>Compiling info: </p>
+
+
+<br />
+
+- [x] Code editor as your preference (I recommend VS Code)
+- [x] Git
+
+<br />
+
+# Author <a name="id05"></a>
+
+<a href="https://www.linkedin.com/in/gabrielacantarini/">Gabriela Cantarini</a>
