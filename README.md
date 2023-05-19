@@ -46,7 +46,8 @@ I've used the follow technologies:<br/>
 
 - [x] Code editor as your preference (I recommend VS Code)
 - [x] Git
-- [ ] Fix Style
+- [ ] Desktop Style
+- [ ] Mobile Style
 
 <br />
 
