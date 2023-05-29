@@ -26,6 +26,8 @@ I've used the follow technologies:<br/>
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/jquery-jquery.js-blue"></code>
+
 
 ## Photos <a name="#id03"></a>
 
