@@ -94,6 +94,7 @@ button.slick-prev {
         background-image: url(../img/anterior.png);
         top: 35%;
         left: 14%;
+        cursor: pointer;
 }
 button.slick-next {
     font-size: 0px;
